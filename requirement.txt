@@ -1,0 +1,7 @@
+torch
+loguru
+tqdm
+numpy
+pillow
+opencv-python
+torchvision
