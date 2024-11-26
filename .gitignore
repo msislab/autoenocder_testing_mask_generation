@@ -1,9 +1,6 @@
 test_imgs/
 *.png
 *.jpg
-autoencoder_results/
 *.pth
 *.pt
-weights_autoencoder/
 __pycache__
-weights/vae_model.pth
