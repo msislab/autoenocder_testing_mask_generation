@@ -4,4 +4,5 @@ test_imgs/
 autoencoder_results/
 weights/vae_model.pth
 *.pth
+*.pt
 weights_autoencoder/
