@@ -5,3 +5,4 @@ autoencoder_results/
 *.pth
 *.pt
 weights_autoencoder/
+__pycache__
