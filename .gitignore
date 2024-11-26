@@ -3,3 +3,5 @@ test_imgs/
 *.jpg
 autoencoder_results/
 weights/vae_model.pth
+*.pth
+
