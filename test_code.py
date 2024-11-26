@@ -8,7 +8,7 @@ from loguru import logger
 
 
 autoencoder             = load_autoencoder()
-dataset_test_auto      = 'Anomaly source dats set/bent'
+dataset_test_auto      = 'test_imgs'
 os.makedirs("autoencoder_results",exist_ok=True)
 try:
     for img_indx, img_file in enumerate(tqdm(os.listdir(dataset_test_auto),desc="running autoencoder testing")): 

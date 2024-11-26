@@ -3,7 +3,7 @@ import torch
 from PIL import Image
 from torchvision import transforms
 
-def load_autoencoder(weight_path='autoenocder_code/autoencoder_model_weights_constant_regions.pth'):
+def load_autoencoder(weight_path='weights/autoencoder_model_weights_constant_regions.pth'):
     # Define the device
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
