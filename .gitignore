@@ -1,5 +1,2 @@
-*.png
-*.jpg
-*.pth
-*.pt
+
 __pycache__
