@@ -1,0 +1,4 @@
+test_imgs/
+*.png
+*.jpg
+autoencoder_results/
