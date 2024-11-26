@@ -6,3 +6,4 @@ autoencoder_results/
 *.pt
 weights_autoencoder/
 __pycache__
+weights/vae_model.pth
