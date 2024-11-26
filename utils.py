@@ -5,7 +5,7 @@ from torchvision import transforms
 import matplotlib.pyplot as plt
 
 
-def load_autoencoder(weight_path='weights/autoencoder_weights_constant_regions.pth'):
+def load_autoencoder(weight_path='weights_autoencoder/autoencoder_weights_constant_regions.pth'):
     # Define the device
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
